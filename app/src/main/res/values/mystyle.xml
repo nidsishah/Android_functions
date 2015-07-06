@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><!--style applied to notification-->
+<resources>
+
+    <style name="style1">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#efefef</item>
+        <item name="android:background">#006699</item>
+    </style>
+
+    <style name="style1.style2">
+        <iem name="android:textSize">30sp</iem>
+    </style>
+    <!--user  made theme -->
+    <color name="bg">#009900</color>
+    <style name="theme" parent="android:Theme.Light">
+        <item name="android:windowBackground">@color/bg</item>
+    </style>
+
+</resources>
