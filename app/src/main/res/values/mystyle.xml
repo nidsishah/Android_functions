@@ -9,7 +9,7 @@
     </style>
 
     <style name="style1.style2">
-        <iem name="android:textSize">30sp</iem>
+        <item name="android:textSize">30sp</item>
     </style>
     <!--user  made theme -->
     <color name="bg">#009900</color>
